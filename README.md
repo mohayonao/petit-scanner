@@ -1,5 +1,5 @@
 # petit-scanner
-[![Build Status](http://img.shields.io/travis/mohayonao/scanner.svg?style=flat)](https://travis-ci.org/mohayonao/scanner)
+[![Build Status](http://img.shields.io/travis/mohayonao/petit-scanner.svg?style=flat)](https://travis-ci.org/mohayonao/petit-scanner)
 
 ## API
 
